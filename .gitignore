@@ -1,6 +1,7 @@
 # Compiled binaries
 *.exe
 *.o
+*.obj
 *.out
 a.out
 
